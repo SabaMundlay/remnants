@@ -1,6 +1,4 @@
 # REMNANTS
-
-## Game Description
 Remnants is a card game set in a world without humans. Using trades and chance, players attempt to envision the playing space in a particular color and score points. Cards are drawn, traded, and placed to create a patchworked space depicting post-human world scenarios. 
 
 ## in this repo: 
@@ -15,7 +13,8 @@ file_name: description
 7. bones.jpg: inspiration for narrative development
 8. IMG_8550.mov: inspiration for narrative development
 9. weisman_earth_without_people.pdf: inspiration for narrative development
+10.'A World Without People' - Alan Taylor https://www.theatlantic.com/photo/2017/05/a-world-without-people/527988/
+11. illustrated cards (folder)
 
 
-'A World Without People' - Alan Taylor https://www.theatlantic.com/photo/2017/05/a-world-without-people/527988/ 
 
