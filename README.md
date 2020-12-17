@@ -13,7 +13,7 @@ file_name: description
 7. bones.jpg: inspiration for narrative development
 8. IMG_8550.mov: inspiration for narrative development
 9. weisman_earth_without_people.pdf: inspiration for narrative development
-10.'A World Without People' - Alan Taylor https://www.theatlantic.com/photo/2017/05/a-world-without-people/527988/
+10. 'A World Without People' - Alan Taylor https://www.theatlantic.com/photo/2017/05/a-world-without-people/527988/
 11. illustrated cards (pink, green, yellow, blue, etc) - there are 26 illustrations in total for a deck of one hundred cards
 
 
